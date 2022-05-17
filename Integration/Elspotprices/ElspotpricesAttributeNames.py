@@ -1,0 +1,5 @@
+SPOT_PRICE_DKK = 'SpotPriceDKK'
+SPOT_PRICE_EUR = 'SpotPriceEUR'
+HOUR_UTC = 'HourUTC'
+HOUR_DK = 'HourDK'
+PRICE_AREA = 'PriceArea'
